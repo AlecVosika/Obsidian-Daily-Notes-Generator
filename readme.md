@@ -43,11 +43,3 @@ C:\Users\Alecv\Documents\MainVault\Daily Notes
    - **Save Your Task**: Click "OK" to save the new task. You may be prompted to enter your Windows password.
 
 3. **Verification**: To verify the task runs as expected, you can right-click the task in Task Scheduler and select "Run". Check the specified directory for the new note to confirm it's being generated correctly.
-
-## Customization
-
-You can customize the script and the generated markdown template according to your needs. Be sure to test any changes thoroughly to ensure the automation continues to work as expected.
-
----
-
-This README provides a clear guide on how to setup and use the script, along with providing some context on what the script does and how it structures its output. Adjust the paths and details as necessary to fit your specific setup.
